@@ -1,6 +1,26 @@
 # Changelog
 
-## [1.45.0](https://github.com/jdx/hk/compare/v1.44.3..v1.45.0) - 2026-05-04
+## [1.46.0](https://github.com/jdx/hk/compare/v1.45.0..v1.46.0) - 2026-05-11
+
+### 🚀 Features
+
+- **(builtins)** add oxfmt config to hk builtin config by [@hituzi-no-sippo](https://github.com/hituzi-no-sippo) in [#914](https://github.com/jdx/hk/pull/914)
+- **(builtins)** add vite-plus builtin configs to hk by [@hituzi-no-sippo](https://github.com/hituzi-no-sippo) in [#913](https://github.com/jdx/hk/pull/913)
+- update oxlint hook by [@hituzi-no-sippo](https://github.com/hituzi-no-sippo) in [#911](https://github.com/jdx/hk/pull/911)
+
+### 🐛 Bug Fixes
+
+- **(stash)** preserve fail_on_fix output with git stash by [@jdx](https://github.com/jdx) in [#909](https://github.com/jdx/hk/pull/909)
+
+### 📦️ Dependency Updates
+
+- update anthropics/claude-code-action digest to 939ae9c by [@renovate[bot]](https://github.com/renovate[bot]) in [#912](https://github.com/jdx/hk/pull/912)
+- update anthropics/claude-code-action digest to 034cbdb by [@renovate[bot]](https://github.com/renovate[bot]) in [#916](https://github.com/jdx/hk/pull/916)
+- update actions-rust-lang/setup-rust-toolchain digest to 46268bd by [@renovate[bot]](https://github.com/renovate[bot]) in [#915](https://github.com/jdx/hk/pull/915)
+- update anthropics/claude-code-action digest to ad67978 by [@renovate[bot]](https://github.com/renovate[bot]) in [#917](https://github.com/jdx/hk/pull/917)
+- lock file maintenance by [@renovate[bot]](https://github.com/renovate[bot]) in [#918](https://github.com/jdx/hk/pull/918)
+
+## [1.45.0](https://github.com/jdx/hk/compare/v1.44.3..v1.45.0) - 2026-05-05
 
 ### 🚀 Features
 
